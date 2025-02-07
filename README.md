@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: Feb 7 2025
+Project creation date: Feb 7 2025
+Author: Ava Bourget
